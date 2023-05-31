@@ -42,7 +42,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## Releases
 
-- [Versão 1.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.0) A versão mais recente do GernComp inclui as seguintes alterações:
+## [Versão 1.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.0) A versão mais recente do GernComp inclui as seguintes alterações:
 
 Funcionalidades:
 
