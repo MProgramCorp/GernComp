@@ -36,10 +36,7 @@ Se você tiver alguma dúvida ou precisar de suporte, entre em contato com Muril
 
 ## Licença
 
-[LICENSE.md]
-
-
-
+![License](LICENSE.md)
 
 ## Releases
 
