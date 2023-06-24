@@ -36,7 +36,8 @@ Se você tiver alguma dúvida ou precisar de suporte, entre em contato com Muril
 
 ## Licença
 
-![License](LICENSE.md)
+Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
+
 
 ## Releases
 
