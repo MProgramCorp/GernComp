@@ -1,4 +1,5 @@
-# Licença
+```markdown
+[//]: # (BEGIN LICENSE)
 
 Esta licença é concedida por Murilo Fonseca Alves ("Licenciante") a você ("Licenciado") em relação ao software GernComp ("Software").
 
@@ -21,3 +22,5 @@ Restrições Adicionais: Além das restrições mencionadas acima, o Licenciado 
 Ao utilizar o Software, o Licenciado concorda em cumprir os termos desta licença. Caso não concorde com estes termos, não utilize o Software.
 
 Murilo Fonseca Alves
+
+[//]: # (END LICENSE)
