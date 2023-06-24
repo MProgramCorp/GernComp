@@ -1,3 +1,5 @@
+# Licença
+
 Esta licença é concedida por Murilo Fonseca Alves ("Licenciante") a você ("Licenciado") em relação ao software GernComp ("Software").
 
 Restrições de Modificação: O Licenciado não tem permissão para modificar, adaptar, alterar, descompilar, desmontar ou criar obras derivadas do Software. O código fonte e a estrutura do Software estão protegidos pelos direitos autorais e são de propriedade exclusiva do Licenciante.
