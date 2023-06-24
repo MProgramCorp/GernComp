@@ -21,7 +21,7 @@ O GernComp é projetado para ser executado no prompt de comando do Windows. Port
 
 ## Como usar
 
-1. Faça o download do [GernComp V1.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.1)(Versão mais atualizada).
+1. Faça o download do [GernComp V1.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.1) (Versão mais atualizada).
 2. Execute o arquivo `gerncomp.bat` para iniciar o programa.
 3. Selecione a função que deseja, a partir da digitação do número correspondente dela.
 4. Espere o programa concluir a operação.
@@ -32,7 +32,7 @@ Contribuições para o projeto são bem-vindas! Se você tiver alguma sugestão,
 
 ## Contato
 
-Se você tiver alguma dúvida ou precisar de suporte, entre em contato com MuriloFA29.
+Se você tiver alguma dúvida ou precisar de suporte, entre em contato com MuriloFA29 ou Gmail: mmprogram.help@gmail.com
 
 ## Licença
 
@@ -40,6 +40,8 @@ Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
 
 
 ## Releases
+
+Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do GernComp.
 
 ## [Versão 1.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.0) 
 **A versão mais recente do GernComp inclui as seguintes alterações:**
@@ -60,21 +62,5 @@ Observação: Nesta versão, a função de esvaziamento da lixeira ainda não fo
 Pedimos desculpas por qualquer inconveniente causado por essa falha e estamos trabalhando para solucionar o problema o mais rápido possível. Planejamos lançar uma versão atualizada em breve, onde a função de esvaziamento da lixeira estará funcionando corretamente.
 
 Agradecemos seu interesse e apoio contínuo ao nosso programa. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato conosco.
-
-## [Versão 1.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.1) 
-**Esta é a versão inicial do GernComp e possui as seguintes funcionalidades:**
-
-Funcionalidades:
-
-Esvaziar a Lixeira;
-Limpar Temp (Win);
-Limpar Temp (Local);
-Limpar Prefetch (Win);
-Escanear Disco;
-Fazer Backup (Documentos).
-
-Observação: Nesta versão, a função de esvaziamento da lixeira está passando por problemas de funcionamento e ainda não foi corrigida.
-
-Pedimos desculpas por qualquer inconveniente causado por essa falha e estamos trabalhando para solucionar o problema o mais rápido possível. Planejamos lançar uma versão atualizada em breve, onde a função de esvaziamento da lixeira estará funcionando corretamente.
 
 
