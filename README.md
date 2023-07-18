@@ -38,6 +38,7 @@ Contribuições para o projeto são bem-vindas! Se você tiver alguma sugestão,
 ## Contato
 
 Se você tiver alguma dúvida ou precisar de suporte, entre em contato com MuriloFA29 ou Gmail: mmprogram.help@gmail.com
+Se você tiver alguma sugestão, entre em contato com MuriloFA29 ou Gmail: mmprogram.ideias@gmail.com
 
 
 ## Licença
