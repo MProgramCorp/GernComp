@@ -12,19 +12,19 @@ O GernComp é projetado para ser executado no Windows. Portanto, desde que você
 
 ## Funcionalidades
 
-- Esvaziar a Lixeira: Remove permanentemente os arquivos deletados da lixeira.
-- Limpar Temp (Win): Limpa a pasta temporária do Windows, removendo arquivos temporários desnecessários.
-- Limpar Temp (Local): Limpa a pasta temporária local, removendo arquivos temporários do usuário.
-- Limpar Prefetch (Win): Limpa a pasta de prefetch do Windows, removendo dados de inicialização em cache.
-- Escanear Disco: Executa uma verificação do disco rígido em busca de erros e problemas de integridade.
-- Fazer Backup (Documentos): Permite fazer backup de documentos para a área de trabalho.
-- Criar Pasta: Cria uma nova pasta na área de trabalho.
-- Abrir CMD: Abre uma janela do prompt de comando para executar comandos e interagir com o sistema.
+- Esvaziar a Lixeira: Libere espaço em removendo permanentemente os itens da lixeira.
+- Limpar Temp (Windows): Remova arquivos temporários do Windows.
+- Limpar Temp (Local): Limpe arquivos temporários da pasta local.
+- Limpar Prefetch (Windows): Exclua os arquivos de prefetch do Windows.
+- Escanear Disco: Realize varreduras em busca de erros ou problemas em um disco selecionado.
+- Fazer Backup: Crie uma cópia de segurança das suas pastas mais importantes para evitar a perda de dados.
+- Criar Pasta: Adicione novas pastas onde desejar para uma organização personalizada.
+- Abrir CMD: Abra uma janela de comando para executar comandos ou scripts.
 
 
 ## Como usar
 
-1. Faça o download do [GernComp v2.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.0) (Versão mais atualizada).
+1. Faça o download do [GernComp v2.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.1) (Versão mais atualizada).
 2. Execute o arquivo `GernComp.exe` com privilegio administrativo, para iniciar o programa.
 3. Selecione a função que desejar.
 4. Espere o programa concluir a operação.
@@ -51,13 +51,16 @@ Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
 Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do GernComp.
 
 
-## [Versão 2.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.0)
+## [Versão v2.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.1)
 
 ### Notas de Lançamento
 
-- Novo código fonte
-- Nova interface gráfica
-- Correção da função de esvaziamento da lixeira
+- Reorganização do menu principal para uma experiência intuitiva.
+- Nova opção "Limpeza" agrupa funções de limpeza de arquivos temporários.
+- Criar Pasta Avançada: Crie pastas em qualquer local do computador.
+- Backup Personalizado: Faça backups de qualquer parte do computador para outra.
+- Melhorias contínuas na interface e experiência do usuário.
+- Aprimoramentos gerais de desempenho e estabilidade.
 
-Agradecemos seu interesse e apoio contínuo ao nosso programa. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato conosco.
+Agradecemos pelo seu apoio contínuo ao GernComp. Estamos comprometidos em oferecer a melhor experiência possível. Entre em contato conosco para sugestões ou feedback.
 
