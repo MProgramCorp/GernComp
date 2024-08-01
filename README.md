@@ -56,7 +56,7 @@ Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do GernC
 ### Notas de Lançamento
 
 - Reorganização do menu principal para uma experiência de uso mais intuitiva.
-- Nova opção "Atalhos"agrupa alguns atalhos de aplicativos para fácil acesso do usuário.
+- Nova opção "Atalhos" agrupa alguns atalhos de aplicativos para fácil acesso do usuário.
 - A opção abrir CMD agora está agrupado no novo menu "Atalhos".
 - Nova opção para limpeza da pasta "Recent", está agrupada no menu "Limpeza".
 - Agora você pode abrir o programa Limpeza de Disco do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
