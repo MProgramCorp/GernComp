@@ -24,7 +24,7 @@ O GernComp é projetado para ser executado no Windows. Portanto, desde que você
 
 ## Como usar
 
-1. Faça o download do [GernComp v2.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.1) (Versão mais atualizada).
+1. Faça o download do [GernComp v2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0) (Versão mais atualizada).
 2. Execute o arquivo `GernComp.exe` com privilegio administrativo, para iniciar o programa.
 3. Selecione a função que desejar.
 4. Espere o programa concluir a operação.
@@ -51,14 +51,17 @@ Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
 Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do GernComp.
 
 
-## [Versão v2.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.1)
+## [GernComp v2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0)
 
 ### Notas de Lançamento
 
-- Reorganização do menu principal para uma experiência intuitiva.
-- Nova opção "Limpeza" agrupa funções de limpeza de arquivos temporários.
-- Criar Pasta Avançada: Crie pastas em qualquer local do computador.
-- Backup Personalizado: Faça backups de qualquer parte do computador para outra.
+- Reorganização do menu principal para uma experiência de uso mais intuitiva.
+- Nova opção "Atalhos"agrupa alguns atalhos de aplicativos para fácil acesso do usuário.
+- A opção abrir CMD agora está agrupado no novo menu "Atalhos".
+- Nova opção para limpeza da pasta "Recent", está agrupada no menu "Limpeza".
+- Agora você pode abrir o programa Limpeza de Disco do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
+- Agora você pode abrir o programa MRT do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
+- Agora você pode criar finitas pastas em sequência, sem precisar reiniciar a funcionalidade "Criar Pastas".
 - Melhorias contínuas na interface e experiência do usuário.
 - Aprimoramentos gerais de desempenho e estabilidade.
 
