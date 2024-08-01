@@ -1,7 +1,37 @@
 # Releases
 
-## [Versão 2.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v2.0.1) 
+## [Versão 2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0) 
 *Versão mais recente do GernComp*
+
+### Melhorias do Menu Principal.
+
+- Reorganização do menu principal para uma experiência de uso mais intuitiva.
+- Nova opção "Atalhos" agrupa alguns atalhos de aplicativos para fácil acesso do usuário.
+- A opção abrir CMD agora está agrupado no novo menu "Atalhos".
+- Nova opção para limpeza da pasta "Recent", está agrupada no menu "Limpeza".
+
+### Novas funcionalidades Adicionadas.
+
+- Limpeza de Disco: Agora você pode abrir o programa Limpeza de Disco do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
+- MRT: Agora você pode abrir o programa MRT do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
+- Criar Pasta em Sequência: Agora você pode criar finitas pastas em sequência, sem precisar reiniciar a funcionalidade.
+
+## Funcionalidades:
+
+- Esvaziar a Lixeira: Libere espaço em removendo permanentemente os itens da lixeira.
+- Limpar Temp (Windows): Remova arquivos temporários do Windows.
+- Limpar Temp (Local): Limpe arquivos temporários da pasta local.
+- Limpar Prefetch (Windows): Exclua os arquivos de prefetch do Windows.
+- Escanear Disco: Realize varreduras em busca de erros ou problemas em um disco selecionado.
+- Fazer Backup: Crie uma cópia de segurança das suas pastas mais importantes para evitar a perda de dados.
+- Criar Pasta: Adicione novas pastas onde desejar para uma organização personalizada.
+- Abrir CMD: Abra uma janela de comando para executar comandos ou scripts.
+- Abrir Limpeza de Disco: Abra o programa Limpeza de Disco do próprio Windows para executar uma limpeza.
+- Abrir MRT: Abra o programa MRT do próprio Windows para executar uma remoção de software malicioso.
+
+Agradecemos pelo seu apoio contínuo ao GernComp. Sua opinião é fundamental para nós. Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco. Estamos empenhados em proporcionar a melhor experiência possível aos nossos usuários.
+
+## [Versão 2.0.1](https://github.com/MProgramCorp/GernComp/releases/tag/v2.0.1) 
 
 ### Melhorias do Menu Principal.
 
@@ -50,7 +80,7 @@ Agradecemos pelo seu apoio contínuo ao GernComp. Sua opinião é fundamental pa
 
 Agradecemos pelo seu apoio contínuo ao GernComp. Se você tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato conosco. Estamos comprometidos em oferecer a melhor experiência aos nossos usuários.
 
-## [Versão 1.0.1](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.0) 
+## [Versão 1.0.1](https://github.com/MProgramCorp/GernComp/releases/tag/v1.0.0) 
 
 Funcionalidades:
 
@@ -69,7 +99,7 @@ Pedimos desculpas por qualquer inconveniente causado por essa falha e estamos tr
 
 Agradecemos seu interesse e apoio contínuo ao nosso programa. Se você tiver alguma dúvida ou feedback, não hesite em entrar em contato conosco.
 
-## [Versão 1.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v1.0.1) 
+## [Versão 1.0.0](https://github.com/MProgramCorp/GernComp/releases/tag/v1.0.1) 
 **Esta é a versão inicial do GernComp e possui as seguintes funcionalidades:**
 
 Funcionalidades:
