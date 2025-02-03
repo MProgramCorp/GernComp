@@ -1,7 +1,40 @@
 # Releases
 
-## [Versão 2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0) 
+## [Versão 2.2.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.2.0) 
 *Versão mais recente do GernComp*
+
+### Melhorias do Menu Principal.
+
+- Reorganização do menu principal para uma experiência de uso mais intuitiva.
+- Nova opção "Rede" agrupa alguns funções de limpeza do wifi para fácil acesso do usuário.
+- Novo atalho denominado "Serviços", está agrupado no menu "Atalhos".
+
+### Novas funcionalidades Adicionadas.
+
+- Serviços: Agora você pode abrir o programa services.msc do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
+- Redefinir Winsock: Agora você pode fazer a redefinição do Winsock (pode ajudar com problemas gerais de rede) diretamente do GernComp, no menu "Rede".
+- Limpar Cache DNS: Agora você pode fazer a limpeza de cache do DNS (pode ajudar a resolver problemas de conectividade) diretamente do GernComp, no menu "Rede".
+
+## Funcionalidades:
+
+- Esvaziar a Lixeira: Libere espaço em removendo permanentemente os itens da lixeira.
+- Limpar Temp (Windows): Remova arquivos temporários do Windows.
+- Limpar Temp (Local): Limpe arquivos temporários da pasta local.
+- Limpar Prefetch (Windows): Exclua os arquivos de prefetch do Windows.
+- Escanear Disco: Realize varreduras em busca de erros ou problemas em um disco selecionado.
+- Fazer Backup: Crie uma cópia de segurança das suas pastas mais importantes para evitar a perda de dados.
+- Criar Pasta: Adicione novas pastas onde desejar para uma organização personalizada.
+- Abrir CMD: Abra uma janela de comando para executar comandos ou scripts.
+- Abrir Limpeza de Disco: Abra o programa Limpeza de Disco do próprio Windows para executar uma limpeza.
+- Abrir MRT: Abra o programa MRT do próprio Windows para executar uma remoção de software malicioso.
+- Abrir Serviços: Abra o programa Serviços do próprio Windows para modificar os serviços do seu computador.
+- Redefinir Winsock: Redefinição do Winsock, ajudando com problemas gerais de rede.
+- Limpar Cache DNS: Limpeza do cache DNS, resolvendo problemas de conectividade.
+
+Agradecemos pelo seu apoio contínuo ao GernComp. Sua opinião é fundamental para nós. Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco. Estamos empenhados em proporcionar a melhor experiência possível aos nossos usuários.
+
+
+## [Versão 2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0) 
 
 ### Melhorias do Menu Principal.
 
