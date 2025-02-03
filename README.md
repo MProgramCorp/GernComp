@@ -20,11 +20,16 @@ O GernComp é projetado para ser executado no Windows. Portanto, desde que você
 - Fazer Backup: Crie uma cópia de segurança das suas pastas mais importantes para evitar a perda de dados.
 - Criar Pasta: Adicione novas pastas onde desejar para uma organização personalizada.
 - Abrir CMD: Abra uma janela de comando para executar comandos ou scripts.
+- Abrir Limpeza de Disco: Abra o programa Limpeza de Disco do próprio Windows para executar uma limpeza.
+- Abrir MRT: Abra o programa MRT do próprio Windows para executar uma remoção de software malicioso.
+- Abrir Serviços: Abra o programa Serviços do próprio Windows para modificar os serviços do seu computador.
+- Redefinir Winsock: Redefinição do Winsock, ajudando com problemas gerais de rede.
+- Limpar Cache DNS: Limpeza do cache DNS, resolvendo problemas de conectividade.
 
 
 ## Como usar
 
-1. Faça o download do [GernComp v2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0) (Versão mais atualizada).
+1. Faça o download do [GernComp v2.2.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.2.0) (Versão mais atualizada).
 2. Execute o arquivo `GernComp.exe` com privilegio administrativo, para iniciar o programa.
 3. Selecione a função que desejar.
 4. Espere o programa concluir a operação.
@@ -51,19 +56,18 @@ Veja o arquivo [LICENSE.md](LICENSE.md) para os termos de uso do software.
 Veja o arquivo [RELEASES.md](RELEASES.md) para as versões mais antigas do GernComp.
 
 
-## [GernComp v2.1.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.1.0)
+## [GernComp v2.2.0](https://github.com/MProgramCorp/GernComp/releases/tag/v2.2.0)
 
 ### Notas de Lançamento
 
 - Reorganização do menu principal para uma experiência de uso mais intuitiva.
-- Nova opção "Atalhos" agrupa alguns atalhos de aplicativos para fácil acesso do usuário.
-- A opção abrir CMD agora está agrupado no novo menu "Atalhos".
-- Nova opção para limpeza da pasta "Recent", está agrupada no menu "Limpeza".
-- Agora você pode abrir o programa Limpeza de Disco do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
-- Agora você pode abrir o programa MRT do próprio Windows diretamente pelo GernComp, no menu "Atalhos".
-- Agora você pode criar finitas pastas em sequência, sem precisar reiniciar a funcionalidade "Criar Pastas".
+- Nova opção "Rede" agrupa alguns funções de limpeza do wifi para fácil acesso do usuário.
+- Novo atalho denominado "Serviços", está agrupado no menu "Atalhos".
+- Nova opção para limpeza de cache do DNS "Limpar Cache DNS", está agrupado no menu "Rede"
+- Nova opção para redefinição do Winsock "Redefinir Winsock", está agrupado no menu "Rede"
 - Melhorias contínuas na interface e experiência do usuário.
 - Aprimoramentos gerais de desempenho e estabilidade.
+
 
 Agradecemos pelo seu apoio contínuo ao GernComp. Estamos comprometidos em oferecer a melhor experiência possível. Entre em contato conosco para sugestões ou feedback.
 
