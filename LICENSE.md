@@ -1,27 +1,42 @@
-GernComp
-Licença de Uso Restrito do Software GernComp
+# Licença de Uso Restrito de Software — MProgram Corp.
 
-Esta licença é concedida por Murilo Fonseca Alves ("Licenciante") a você ("Licenciado") em relação ao software GernComp ("Software").
+**Direitos Autorais (c) 2026 MProgram Corp. Todos os direitos reservados.**  
+**Licenciante:** Murilo Fonseca Alves / MProgram Corp.
 
-Restrições de Modificação: O Licenciado não tem permissão para modificar, adaptar, alterar, descompilar, desmontar ou criar obras derivadas do Software. O código fonte e a estrutura do Software estão protegidos pelos direitos autorais e são de propriedade exclusiva do Licenciante.
+Esta Licença de Uso Restrito ("Licença") rege o uso de qualquer programa de computador, código, aplicativo, utilitário ou documentação associada ("Software") desenvolvido, publicado ou disponibilizado pela **MProgram Corp.** ou por **Murilo Fonseca Alves** ("Licenciante") a você ("Licenciado").
 
-Restrições de Uso Comercial: O Licenciado não tem permissão para revender, sublicenciar, distribuir ou transferir o Software, seja na forma original ou modificada, para terceiros, com fins comerciais ou não comerciais.
+---
 
-Propriedade Intelectual: Todos os direitos de propriedade intelectual relacionados ao Software são de propriedade exclusiva do Licenciante. Nenhuma disposição desta licença deve ser interpretada como uma transferência de direitos de propriedade intelectual ao Licenciado.
+### 1. Concessão de Licença de Uso
+O Licenciante concede ao Licenciado uma licença pessoal, não exclusiva, intransferível, revogável e limitada para executar e utilizar o Software em seus dispositivos pessoais ou autorizados, estritamente de acordo com os termos e condições desta Licença.
 
-Limitação de Responsabilidade: O Licenciante não se responsabiliza por quaisquer danos, diretos, indiretos, incidentais, especiais ou consequenciais, decorrentes do uso ou impossibilidade de uso do Software.
+### 2. Restrições de Modificação e Engenharia Reversa
+O Licenciado **não** tem permissão para:
+- Modificar, adaptar, alterar, traduzir ou criar obras derivadas a partir do Software ou de seu código-fonte;
+- Descompilar, desmontar, realizar engenharia reversa ou tentar extrair o código-fonte, a estrutura ou a arquitetura do Software;
+- Extrair recursos, ícones, arquivos executáveis ou componentes do pacote do Software para reutilização em outros programas.
 
-Vigência: Esta licença entra em vigor a partir do momento em que o Licenciado obtém uma cópia do Software e permanece em vigor, a menos que seja rescindida pelo Licenciado ou pelo Licenciante.
+### 3. Restrições de Comercialização e Distribuição
+O Licenciado **não** tem permissão para revender, sublicenciar, alugar, arrendar, distribuir, transferir ou disponibilizar o Software (seja em sua forma original ou modificada) para terceiros, com ou sem fins lucrativos, sem autorização prévia por escrito do Licenciante.
 
-Rescisão: O Licenciante reserva-se o direito de rescindir esta licença caso o Licenciado viole algum dos termos e condições aqui estabelecidos. Em caso de rescisão, o Licenciado deve cessar imediatamente o uso do Software e destruir todas as cópias em sua posse.
+### 4. Propriedade Intelectual
+Todos os direitos de propriedade intelectual, marcas, direitos autorais, códigos-fonte, designs visuais e segredos comerciais referentes ao Software são e permanecerão de propriedade exclusiva de Murilo Fonseca Alves e da MProgram Corp. Nenhuma disposição desta Licença constitui transferência de propriedade intelectual ao Licenciado.
 
-Garantia Limitada: O Software é fornecido "como está", sem garantias de qualquer tipo, expressas ou implícitas. O Licenciante não oferece garantias quanto ao desempenho, adequação a um propósito específico, ausência de erros ou qualquer outra garantia implícita. O Licenciado assume todos os riscos associados ao uso do Software.
+### 5. Componentes de Terceiros
+Caso o Software utilize bibliotecas, dependências ou componentes de código aberto (*open-source*) de terceiros, estes permanecem sob os direitos de seus respectivos autores e licenças originais. O uso de tais componentes no Software ocorre em estrita conformidade com suas licenças aplicáveis e não descaracteriza a natureza restrita e proprietária do Software como um todo.
 
-Restrições Adicionais: Além das restrições mencionadas acima, o Licenciado deve cumprir todas as leis aplicáveis relacionadas à utilização do Software.
+### 6. Limitação de Responsabilidade
+Em nenhuma hipótese o Licenciante ou a MProgram Corp. serão responsáveis por quaisquer danos diretos, indiretos, incidentais, especiais ou consequenciais (incluindo, mas não se limitando a, perda de dados, falhas no sistema, interrupção de negócios ou perda de lucros) decorrentes da utilização ou da incapacidade de utilização do Software.
 
-Ao utilizar o Software, o Licenciado concorda em cumprir os termos desta licença. Caso não concorde com estes termos, não utilize o Software.
+### 7. Isenção de Garantias
+O Software é fornecido **"COMO ESTÁ"** (*AS IS*), sem garantias de qualquer tipo, expressas ou implícitas. O Licenciante não garante que o Software funcionará de maneira ininterrupta ou livre de erros, assumindo o Licenciado todos os riscos associados ao seu uso.
 
-Esta licença é concedida por Murilo Fonseca Alves ("Licenciante") em nome da MProgram Corp.
+### 8. Vigência e Rescisão
+Esta Licença entra em vigor a partir do momento em que o Licenciado obtém, instala ou executa qualquer cópia do Software e permanece em vigor até que seja rescindida. O Licenciante reserva-se o direito de rescindir esta Licença imediatamente em caso de descumprimento de qualquer uma de suas cláusulas. Com a rescisão, o Licenciado deve cessar imediatamente o uso e destruir todas as cópias do Software em sua posse.
 
-Murilo Fonseca Alves
-MProgram Corp.
+---
+
+Ao instalar, baixar ou utilizar qualquer Software da MProgram Corp., você concorda em cumprir integralmente os termos desta Licença. Caso não concorde com estes termos, não utilize o Software.
+
+**Murilo Fonseca Alves**  
+*MProgram Corp.*
