@@ -1,9 +1,37 @@
 # Releases
 
 
-## [Versão 3.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v3.0.0) 
+# [Versão 3.1.0](https://github.com/MuriloFA29/GernComp/releases/tag/v3.1.0)
 
 *Versão mais recente do GernComp*
+
+### Melhorias de Interface (UI/UX)
+- Barra de Título Contínua e Arredondamento Nativo: Integração com a API DWM do Windows 11 para cantos arredondados suaves e barra de título contínua de ponta a ponta com botões vetorizados de minimizar e fechar.
+- Correção Ortográfica e Tipografia: Ajuste de textos, títulos centralizados e integração das fontes Segoe UI / Segoe UI Semibold.
+
+### Novos Recursos e Segurança
+- Validação de Versão Online Assíncrona: Sistema integrado em segundo plano via std::jthread e WinINet que consulta a API do GitHub (MProgramCorp/GernComp) sem travar a interface.
+- Popup de Atualização Flutuante (Toast): Notificação translúcida moderna no canto inferior direito informando sobre novas versões disponíveis, com botões para download direto no GitHub ou adiar.
+
+## Funcionalidades:
+- Esvaziar a Lixeira: Libere espaço removendo permanentemente os itens da lixeira.
+- Limpar Temp (Windows): Remova arquivos temporários do Windows.
+- Limpar Temp (Local): Limpe arquivos temporários da pasta local.
+- Limpar Prefetch (Windows): Exclua os arquivos de prefetch do Windows.
+- Escanear Disco: Realize varreduras em busca de erros ou problemas em um disco selecionado.
+- Fazer Backup: Crie uma cópia de segurança das suas pastas mais importantes para evitar a perda de dados.
+- Criar Pasta: Adicione novas pastas onde desejar para uma organização personalizada.
+- Abrir CMD: Abra uma janela de comando para executar comandos ou scripts como Administrador.
+- Abrir Limpeza de Disco: Abra o programa Limpeza de Disco do próprio Windows para executar uma limpeza.
+- Abrir MRT: Abra o programa MRT do próprio Windows para executar uma remoção de software malicioso.
+- Abrir Serviços: Abra o programa Serviços do próprio Windows para modificar os serviços do seu computador.
+- Redefinir Winsock: Redefinição do Winsock, ajudando com problemas gerais de rede.
+- Limpar Cache DNS: Limpeza do cache DNS, resolvendo problemas de conectividade.
+
+Agradecemos pelo seu apoio contínuo ao GernComp. Sua opinião é fundamental para nós. Se você tiver alguma dúvida, sugestão ou feedback, entre em contato conosco. Estamos empenhados em proporcionar a melhor experiência possível aos nossos usuários.
+
+
+## [Versão 3.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v3.0.0) 
 
 ### Reformulação Completa do Código-Fonte e Interface Gráfica.
 - Reformulação completa do código-fonte de C/WinGUI para C++20 utilizando Dear ImGui e DirectX 9.
