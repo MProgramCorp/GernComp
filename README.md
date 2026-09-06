@@ -29,7 +29,7 @@ O GernComp é projetado para ser executado no Windows. Portanto, desde que você
 
 ## Como usar
 
-1. Faça o download do [GernComp v3.0.0](https://github.com/MuriloFA29/GernComp/releases/tag/v3.0.0) (Versão mais atualizada).
+1. Faça o download do [GernComp v3.1.0](https://github.com/MuriloFA29/GernComp/releases/tag/v3.1.0) (Versão mais atualizada).
 2. Execute o arquivo `GernComp.exe` para iniciar o programa (as permissões administrativas serão solicitadas automaticamente se necessário).
 3. Selecione a função que desejar.
 4. Espere o programa concluir a operação.
